@@ -1,0 +1,18 @@
+{
+  "people": [
+    {
+      "name": "Jack Smith",
+      "phone": "555-666-7777",
+      "has_licence": true,
+      "email": null,
+      "greeting": "Hello Jack Smith"
+    },
+    {
+      "name": "Mary Gold",
+      "phone": "555-222-5225",
+      "has_licence": false,
+      "email": "mary@example.com",
+      "greeting": "Hello Mary Gold"
+    }
+  ]
+}
